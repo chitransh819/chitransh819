@@ -119,9 +119,10 @@ Goal: reduce backend boilerplate and make production-ready patterns easier to us
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chitransh819&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitransh819&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" alt="Chitransh's GitHub stats" src="https://github-readme-stats.shion.dev/api?username=chitransh819&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=chitransh819&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chitransh819&theme=tokyonight&hide_border=true" />
