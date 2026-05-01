@@ -1,31 +1,161 @@
-# 💫 About Me:
-I am currently working as Python Developer<br>
+<div align="center">
 
+# Hey, I'm Chitransh Shrivastava
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nischay2361) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chitransh-s) 
+### Python Backend Developer | Open Source Builder | Async API & WebSocket Tooling
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=chitransh819&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=chitransh819&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=chitransh819&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I build backend tools that make development faster, cleaner, and easier to deploy.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chitransh819&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chitransh819&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=chitransh819&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Chitransh64) 
+## About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am a Python backend developer from India, focused on building reusable backend infrastructure.
+
+My work mainly revolves around:
+
+- Python backend systems
+- Async APIs
+- WebSockets
+- Authentication and authorization
+- Rate limiting
+- Developer tooling
+- Open-source Python packages
+
+I enjoy turning repeated backend patterns into simple plug-and-play libraries.
+
+---
+
+## Open Source Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### [Autowire](https://github.com/chitransh819/autowire)
+
+A plug-and-play Python backend framework for file-based APIs and WebSockets.
+
+Drop route files into a `routes/` folder and Autowire wires endpoints automatically.
+
+**Built with:** Python, ASGI, WebSockets, SQLite, Auth, Rate Limiting
+
+```bash
+pip install git+https://github.com/chitransh819/autowire.git
+```
+
+</td>
+<td width="50%">
+
+### ws-reconnect-manager
+
+Reliable asyncio WebSocket client with reconnect, heartbeat, and dead connection detection.
+
+Built for bots, workers, dashboards, and long-running clients that need stable WebSocket connections.
+
+**Built with:** Python, asyncio, aiohttp, WebSockets
+
+```bash
+pip install ws-reconnect-manager
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### smart-api-limiter
+
+Async API rate limiting toolkit for both outgoing clients and incoming servers.
+
+Supports retries, backoff, request queueing, token buckets, and ASGI middleware.
+
+**Built with:** Python, asyncio, httpx, ASGI
+
+```bash
+pip install smart-api-limiter
+```
+
+</td>
+<td width="50%">
+
+### Current Focus
+
+I am building a small backend tooling ecosystem:
+
+- Autowire for APIs and WebSockets
+- ws-reconnect-manager for reliable WebSocket clients
+- smart-api-limiter for API traffic control
+
+Goal: reduce backend boilerplate and make production-ready patterns easier to use.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/ASGI-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSockets-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/asyncio-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/httpx-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chitransh819&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitransh819&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chitransh819&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/chitransh-s">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/nischay2361">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## What I Like Building
+
+```text
+Backend frameworks
+Async Python libraries
+WebSocket systems
+API utilities
+Authentication tools
+Rate limiting systems
+Developer-first backend tooling
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chitransh819&style=flat-square&color=blue" />
+</p>
